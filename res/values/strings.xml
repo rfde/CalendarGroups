@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalendarGroups</string>
+    <string name="str_visible_calendars">Visible calendars</string>
+    <string name="str_calendar_app">Calendar app</string>
+    <string name="str_calendar_app_none">(none)</string>
+    <string name="str_shortcut_name">Shortcut name</string>
+    <string name="str_ok">OK</string>
+    <string name="str_click_here_to_finish">(Click here to finish)</string>
+    <string-array name="pref_calendar_list_default"></string-array>
+</resources>

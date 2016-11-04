@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <de.return_false.calendargroups2.CalendarListPreference
+        android:defaultValue="@array/pref_calendar_list_default"
+        android:key="pref_calendar_list_key"
+        android:title="@string/str_visible_calendars" />
+
+    <de.return_false.calendargroups2.AppListPreference
+        android:defaultValue="(none)"
+        android:key="pref_calendar_app"
+        android:title="@string/str_calendar_app"
+        />
+
+    <de.return_false.calendargroups2.SEditTextPreference
+        android:defaultValue=""
+        android:key="pref_shortcut_name"
+        android:title="@string/str_shortcut_name" />
+
+    <Preference
+        android:key="pref_ok"
+        android:title="@string/str_ok"
+        android:summary="@string/str_click_here_to_finish" />
+
+</PreferenceScreen>

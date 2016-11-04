@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalendarGroups</string>
+    <string name="str_calendar_app">Kalender-App</string>
+    <string name="str_calendar_app_none">(keine)</string>
+    <string name="str_click_here_to_finish">(Klicken Sie hier, um den Vorgang abzuschließen)</string>
+    <string name="str_ok">OK</string>
+    <string name="str_shortcut_name">Name der Verknüpfung</string>
+    <string name="str_visible_calendars">Sichtbare Kalender</string>
+</resources>
